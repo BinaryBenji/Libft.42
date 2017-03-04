@@ -68,7 +68,8 @@ SRC = ./ft_memset.c \
 				./ft_range.c \
 				./ft_foreach.c \
 				./ft_isspace.c \
-				./ft_pisnegative.c
+				./ft_pisnegative.c \
+				./get_next_line.c
 
 BIN = $(SRC:.c=.o)
 
